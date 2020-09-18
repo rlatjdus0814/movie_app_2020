@@ -4,9 +4,19 @@
 
 React Js Fundamentals Course 2020
 
+## 09월 18일
+
+> 1. 컴포넌트가 무엇인지 알아보고 JSX를 학습
+> 2. JSX는 단지 HTML과 자바스크립트를 조합한 문법
+> 3. JSX를 이용해 컴포넌트 작성
+> 4. 컴포넌트의 이름은 대문자로 시작
+> 5. 컴포넌트에 데이터를 전달할 때는 props 사용
+> 6. 점 연산자를 대신해서 ES6의 구조 분해 할당 사용 가능
+> 7. 리액트는 다수의 컴포넌트로 이루어지나, 최종적으로는 하나의 컴포넌트만 사용
+
 ## 09월 11일
 
-> 1.Dothome에 indexfile 수정하기
-> 2.readme.md 수정 후 Github에 push하기
+> 1. Dothome에 indexfile 수정하기
+> 2. readme.md 수정 후 Github에 push하기
 
 - 9월 16일까지
