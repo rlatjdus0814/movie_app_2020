@@ -4,6 +4,14 @@
 
 React Js Fundamentals Course 2020
 
+## 09월 25일
+> 1. map() 함수로 컴포넌트 만들기
+> 2. map() 함수 배열에 적용
+> 3. import / 절대주소 / 이미지 주소를 사용해 이미지 사진 가져오고 출력하기 
+> 4. map() 함수의 인자에 함수 전달하고 정의하기
+> 5. key props 추가하기
+> 6. 이미지에 alt속성 추가하기
+
 ## 09월 18일
 
 > 1. 컴포넌트가 무엇인지 알아보고 JSX를 학습
@@ -18,5 +26,3 @@ React Js Fundamentals Course 2020
 
 > 1. Dothome에 indexfile 수정하기
 > 2. readme.md 수정 후 Github에 push하기
-
-- 9월 16일까지
