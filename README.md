@@ -3,6 +3,14 @@
 ## Movie_App_2020
 
 React Js Fundamentals Course 2020
+## 10월 7일
+> 1. prop-types 설치하고 적용하기
+> 2. prop-types 자료형과 필요여부(isRequired) 작성하기
+> 3. 클래스형 컴포넌트의 render() 함수로 JSX 반환하기
+> 4. 동적 데이터를 다루는 state 정의하기
+> 5. 함수를 작성하고 onClick 속성 추가하기 
+> 6. setState() 함수로 수정한 state 데이터만 업데이트하기
+> 7. setState() 함수의 current인자로 객체 반환하기
 
 ## 09월 25일
 > 1. map() 함수로 컴포넌트 만들기
