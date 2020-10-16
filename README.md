@@ -3,6 +3,16 @@
 ## Movie_App_2020
 
 React Js Fundamentals Course 2020
+## 10월 16일
+> 1. 생명주기함수 (constructor()함수, componentDidMount()함수, componentDidUpdate()함수, componentWillUnmount()함수)
+> 2. 생명주기함수로 Movie컴포넌트 구성
+> 3. 삼항 연산자
+> 4. setTimeout() 함수로 타이머 정하기
+> 5. axios 설치하기
+> 6. YTS 영화 데이터 API로 적용하기
+> 7. getMovies() 함수 생성 후, 함수 안에서 axios.get() 실행하기
+> 8. ()앞에 async 작성해 getMovies() 함수가 시간이 필요하다는 것을 알려주고, 실제 시간이 필요한 대상인 axios.get() 앞에 await 작성하기
+
 ## 10월 7일
 > 1. prop-types 설치하고 적용하기
 > 2. prop-types 자료형과 필요여부(isRequired) 작성하기
