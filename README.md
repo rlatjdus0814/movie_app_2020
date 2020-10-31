@@ -3,6 +3,11 @@
 ## Movie_App_2020
 
 React Js Fundamentals Course 2020
+## 10월 30일
+> 1. 생명주기 함수, async/await 복습
+> 2. movies 변수에 있는 movies값 추출하기
+> 3. movies state에 영화 데이터 저장하기
+
 ## 10월 16일
 > 1. 생명주기함수 (constructor()함수, componentDidMount()함수, componentDidUpdate()함수, componentWillUnmount()함수)
 > 2. 생명주기함수로 Movie컴포넌트 구성
