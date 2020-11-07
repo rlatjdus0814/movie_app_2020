@@ -3,6 +3,12 @@
 ## Movie_App_2020
 
 React Js Fundamentals Course 2020
+## 11월 6일
+> 1. Moive 컴포넌트 만들기
+> 2. App.js에 임포트하고, Movie컴포넌트에 props전달하기
+> 3. key props 추가하기
+> 4. 영화 포스터 추가하기
+
 ## 10월 30일
 > 1. 생명주기 함수, async/await 복습
 > 2. movies 변수에 있는 movies값 추출하기
