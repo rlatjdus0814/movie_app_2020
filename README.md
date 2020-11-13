@@ -3,6 +3,13 @@
 ## Movie_App_2020
 
 React Js Fundamentals Course 2020
+## 11월 13일
+> 1. 영화 앱 스타일링하기
+> 2. react-router-dom 설치하기
+> 3. HashRouter, Route 컴포넌트 사용하기
+> 4. path props와 정확하게 일치하는 URL에만 반응하도록 exact props 추가하기
+> 5. Navigation 컴포넌트 만들기
+
 ## 11월 6일
 > 1. Moive 컴포넌트 만들기
 > 2. App.js에 임포트하고, Movie컴포넌트에 props전달하기
