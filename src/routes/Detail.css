@@ -1,0 +1,38 @@
+.detail-container{
+  box-shadow: 0 13px 27px -5px rgba(50, 50, 93, 0.25), 0 8px 16px -8px rgba(0, 0, 0, 0.3), 0 -6px 16px -6px rgba(0, 0, 0, 0.025);
+  padding: 20px;
+  border-radius: 5px;
+  background-color: white;
+  margin: 0 auto;
+  margin-top: 100px;
+  width: 100%;
+  max-width: 900px;
+  font-weight: 300;
+}
+.detail-wrap{
+  margin: 20px;
+  display: flex;
+}
+.detail-poster{
+  width: 1000px;
+}
+.detail-content{
+  margin-left: 20px;
+}
+.content-title{
+  font-size: 40px;
+  font-weight: 400;
+  padding: 20px 0;
+}
+.content-year{
+  padding-bottom: 10px;
+}
+.content-genres{
+  padding-bottom: 10px;
+}
+.summary-title{
+
+}
+.detail-content{
+  padding-left: 15px;
+}
