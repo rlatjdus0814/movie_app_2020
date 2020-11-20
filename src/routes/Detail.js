@@ -17,7 +17,6 @@ class Detail extends React.Component {
             <img className="detail-poster" src={location.state.poster} />
             <div className="detail-content">
               <div className="content-title">{location.state.title}</div>
-              <div className="content-rating">{location.state.rating}</div>
               <div className="content-year">{location.state.year}</div>
               <div className="content-genres">{location.state.genres}</div>
               <div className="content-summary">

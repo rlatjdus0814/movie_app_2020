@@ -41,8 +41,7 @@
     margin: 5px 0;
 }
 .movie-genres li,
-.movie .movie-year,
-.movie .movie-rating{
+.movie .movie-year{
     margin-right: 10px;
     font-size: 14px;
 }
