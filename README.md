@@ -3,6 +3,12 @@
 ## Movie_App_2020
 
 React Js Fundamentals Course 2020
+## 11월 20일
+> 1. route props 이용하여 상세 기능 페이지 만들기
+> 2. detail, route 컴포넌트 만들기
+> 3. detail컴포넌트를 클래스형으로 만들기
+> 4. movie-detail페이지에서 영화 정보 출력하기
+> 5. 영화 앱 깃허브에 배포하기
 ## 11월 13일
 > 1. 영화 앱 스타일링하기
 > 2. react-router-dom 설치하기
