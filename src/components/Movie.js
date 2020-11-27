@@ -3,19 +3,20 @@ import PropTypes from 'prop-types';
 import './Movie.css';
 import { Link } from 'react-router-dom';
 
-function Movie({ title, year, summary, poster, genres }) {
+function Movie({ title, year, summary, poster, genres, rating }) {
   return (
     <div className="movie">
       <Link
         to={{
           pathname: '/movie-detail',
-          state: { year, title, summary, poster, genres }
+          state: { year, title, summary, poster, genres, rating }
         }}
       >
         <img src={poster} alt={title} title={title} />
         <div className="movie-data">
           <h3 className="movie-title">{title}</h3>
           <h5 className="movie-year">{year}</h5>
+          <h5 className="movie-rating">{rating}</h5>
           <ul className="movie-genres">
             {genres.map((genres, index) => {
               return <li key={index} className="movie-genre">{genres}</li>;

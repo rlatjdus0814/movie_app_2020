@@ -18,10 +18,9 @@ class Detail extends React.Component {
             <div className="detail-content">
               <div className="content-title">{location.state.title}</div>
               <div className="content-year">{location.state.year}</div>
-              <div className="content-genres">{location.state.genres}</div>
-              <div className="content-summary">
-                <div className="summary-title">줄거리</div> <br /> {location.state.summary}
-              </div>
+              <div className="content-rating">별점: {location.state.rating}</div>
+              <div className="content-genres">장르: {location.state.genres}</div>
+              <div className="content-summary">줄거리<hr></hr>{location.state.summary}</div>
             </div>
           </div>
         </div>

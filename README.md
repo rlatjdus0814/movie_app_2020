@@ -3,6 +3,12 @@
 ## Movie_App_2020
 
 React Js Fundamentals Course 2020
+## 11월 27일
+> 1. react CDN 사용하기
+> 2. crossorigin 속성 사용하기
+> 3. render() 메소드 구현하기
+> 4. this.state를 이용해 상태 데이터 바꾸기
+> 4. 라이프 사이클(componentDidMount(), componentDidUpdate(), componentWillUnmount())을 이용해 타이머 만들기
 ## 11월 20일
 > 1. route props 이용하여 상세 기능 페이지 만들기
 > 2. detail, route 컴포넌트 만들기
