@@ -3,6 +3,12 @@
 ## Movie_App_2020
 
 React Js Fundamentals Course 2020
+## 12월 1일
+> 1. 데이터의 id를 key props로 사용하기
+> 2. key props를 형제 사이에서 고유한 값으로 사용하기
+> 3. 많이 쓰이는 라이프 사이클(componentDidMount(), componentDidUpdate(), componentWillUnmount())
+> 4. 컴포넌트 계충 구조(상위 컴포넌트, 하위 컴포넌트)
+> 5. 엘리먼트 변수, &&연산자, if문으로 조건부 렌더링하기
 ## 11월 27일
 > 1. react CDN 사용하기
 > 2. crossorigin 속성 사용하기
